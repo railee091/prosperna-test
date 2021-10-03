@@ -3,7 +3,7 @@
   <main id="main">
     <div class="container">
     <!--======container start======-->
-      <div class="row card firstRow">
+      <div class="row">
         <!----contains brand and catch phrase---->
         <div class="row textRow">
           <div class="col-sm vertical-center">
@@ -15,7 +15,6 @@
                   </i>
                   <br/>
               </div>
-               
               <h2>
                 <span class="greenFont"><i>Fastest, Most Accurate</i></span>
               </h2>
@@ -28,23 +27,23 @@
         <!----end---->
 
         <!----contains subscribe navigation---->
-        <div class="row subscribeRow">
-          <div class="col-sm-12">
-            <div class="steps rounded">
-              <div class="firstBlock text-center"><a href="#" title=""><em>SCHEDULE A DEMO</em><span>Learn More About FloQast</span></a></div>
-              <div class="current">
-                <h5><em><span class="blackFont">Learn How FloQast Can </span><span class="greenFont">Improve Your Month-end</span></em></h5>
-                <form class="row">
-                  <input class="col-sm-3" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"/>
-                  <input class="col-sm-3" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"/>
-                  <button type="button" class="btn btn-sm btn-success form-control col-sm-3">Success</button>
-                  
-                </form>
-              </div>
-            </div>
+        <div class="steps rounded row align-items-center shadow-lg">
+
+          <div class="firstBlock text-center col-sm-4">
+            <a href="#" title=""><em>SCHEDULE A DEMO</em><span>Learn More About FloQast</span></a>
+          </div>
+          <div class="current col-sm-8 ">
+            <h5 class="row">
+              <em class="col-sm-12"><span class="blackFont">Learn How FloQast Can </span><span class="greenFont">Improve Your Month-end</span></em>
+            </h5>
+            <form class="row">
+              <input type="email" class="form-control col-sm" id="subscriberFirstName" placeholder="First Name*">
+              <input type="email" class="form-control col-sm" id="subscriberEmail" placeholder="Email*">
+              <button type="submit" class="btn btn-success form-control col-sm">SCHEDULE NOW</button>
+            </form>
+          </div>
         </div>
         <!----end---->
-      </div>
 
     </div>
     <!--======container end======-->

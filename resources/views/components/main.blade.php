@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>Prosperna PDF to HTML Test</title>
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
@@ -18,3 +18,4 @@
 
 </body>
 </html>
+    
