@@ -30,15 +30,17 @@
 
 
         <div class="row subscribeRow">
-          <div class="col-sm ">
+          <div class="col-sm-12">
             <div class="steps rounded">
               <div class="firstBlock text-center"><a href="#" title=""><em>SCHEDULE A DEMO</em><span>Learn More About FloQast</span></a></div>
-              <div class="current  text-center" >
-                <em><span class="blackFont">Learn How FloQast Can </span><span class="greenFont">Improve Your Month-end</span></em>
-
-                <input class="col-sm-3" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-                <input class="col-sm-3" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-                <button class="btn btn-sm btn-success"> SCHEDULE NOW</button>
+              <div class="current">
+                <h5><em><span class="blackFont">Learn How FloQast Can </span><span class="greenFont">Improve Your Month-end</span></em></h3>
+                <form class="row">
+                  <input class="col-sm-3" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"/>
+                  <input class="col-sm-3" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"/>
+                  <button type="button" class="btn btn-sm btn-success form-control col-sm-3">Success</button>
+                  
+                </form>
               </div>
             </div>
         </div>
