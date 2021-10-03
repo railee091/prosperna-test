@@ -4,9 +4,7 @@
     <div class="container">
     <!--======container start======-->
       <div class="row card firstRow">
-        <div class="row">
-          
-        </div>
+        <!----contains brand and catch phrase---->
         <div class="row textRow">
           <div class="col-sm vertical-center">
             <div id="mainText">
@@ -27,14 +25,15 @@
             </div>
           </div>
         </div>
+        <!----end---->
 
-
+        <!----contains subscribe navigation---->
         <div class="row subscribeRow">
           <div class="col-sm-12">
             <div class="steps rounded">
               <div class="firstBlock text-center"><a href="#" title=""><em>SCHEDULE A DEMO</em><span>Learn More About FloQast</span></a></div>
               <div class="current">
-                <h5><em><span class="blackFont">Learn How FloQast Can </span><span class="greenFont">Improve Your Month-end</span></em></h3>
+                <h5><em><span class="blackFont">Learn How FloQast Can </span><span class="greenFont">Improve Your Month-end</span></em></h5>
                 <form class="row">
                   <input class="col-sm-3" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"/>
                   <input class="col-sm-3" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"/>
@@ -44,7 +43,7 @@
               </div>
             </div>
         </div>
-
+        <!----end---->
       </div>
 
     </div>
