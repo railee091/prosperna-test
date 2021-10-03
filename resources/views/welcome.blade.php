@@ -34,7 +34,7 @@
             <div class="steps rounded">
               <div class="firstBlock text-center"><a href="#" title=""><em>SCHEDULE A DEMO</em><span>Learn More About FloQast</span></a></div>
               <div class="current  text-center" >
-                <em><span class="blackFont">Learn How FloQast Can </span><span class="greenFont">Improve YOur Month-end</span></em>
+                <em><span class="blackFont">Learn How FloQast Can </span><span class="greenFont">Improve Your Month-end</span></em>
 
                 <input class="col-sm-3" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
                 <input class="col-sm-3" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
