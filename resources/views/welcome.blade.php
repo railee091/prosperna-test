@@ -6,7 +6,7 @@
       <div class="row">
         <!----contains brand and catch phrase---->
         <div class="row textRow">
-          <div class="col-sm vertical-center">
+          <div class="col-sm">
             <div id="mainText">
               <div class="brand">
                  <img class="logo"src="{{ asset('img/logo.png') }}" alt="logo"/>
